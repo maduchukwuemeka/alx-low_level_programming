@@ -1,11 +1,11 @@
-#inclue <stdio.h>
+#include <stdio.h>
 int main(void)
 {
 	printf(n);
 	if(n>0)
 	
 {
-	primtf("is positive");
+	printf("is positive");
 }
 else if(n==0)
 {
