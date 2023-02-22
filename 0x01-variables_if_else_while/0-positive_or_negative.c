@@ -8,7 +8,7 @@ int main(void)
 	n = rand() - RAND_MAX / 2;
 	/* your code goes there */
 
-	printf(n);
+	printf("%d",n);
 	if(n>0)
 	
 {
